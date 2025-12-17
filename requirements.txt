@@ -16,7 +16,7 @@ recurring-ical-events==3.3.2
 requests==2.32.4
 six==1.16.0
 tzdata==2024.2
-tzlocal==5.2
+tzlocal==5.3.1
 urllib3==2.5.0
 vobject==0.9.8
 Werkzeug==3.0.6
