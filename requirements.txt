@@ -21,4 +21,4 @@ tzlocal==5.3.1
 urllib3==2.6.3
 vobject==0.9.8
 Werkzeug==3.1.6
-x-wr-timezone==1.0.1
+x-wr-timezone==2.0.1
