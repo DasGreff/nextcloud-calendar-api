@@ -1,5 +1,5 @@
 blinker==1.9.0
-caldav==3.0.1
+caldav==3.2.1
 certifi==2024.8.30
 charset-normalizer==3.4.5
 Flask==3.1.3
