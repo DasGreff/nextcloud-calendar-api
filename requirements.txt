@@ -16,7 +16,7 @@ pytz==2026.3.post1
 recurring-ical-events==3.8.1
 six==1.17.0
 requests==2.33.0
-tzdata==2026.3
+tzdata==2026.4
 tzlocal==5.4.4
 urllib3==2.7.0
 vobject==0.9.9
