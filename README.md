@@ -4,8 +4,6 @@
 
 API REST pour gérer les calendriers Nextcloud via CalDAV. Permet de créer, supprimer et consulter des événements depuis des scripts d'automatisation.
 
-**Basé sur :** [murajo/nextcloud-calender-manage-api](https://github.com/murajo/nextcloud-calender-manage-api)
-
 ## Fonctionnalités
 
 - 📅 Lister les calendriers
